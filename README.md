@@ -1,1 +1,1 @@
-Increase stack size for python2 windows x86
+Increase stack size for python-win32

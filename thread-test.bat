@@ -1,3 +1,3 @@
-c:\python27\python.exe thread-test.py
-c:\python27\python-st.exe thread-test.py
+python thread-test.py
+python-st thread-test.py
 pause
